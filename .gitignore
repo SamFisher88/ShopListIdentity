@@ -1,3 +1,5 @@
 /.vs/*
 /bin/*
 /obj/*
+/appsettings2.json
+/appsettings.json
